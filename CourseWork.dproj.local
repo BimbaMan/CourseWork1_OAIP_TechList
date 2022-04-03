@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.865,=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_hello.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\OrgTechAPI.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_search.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit2.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_hello.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,=C:\Users\Иван\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,C:\Users\Иван\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_delete.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_edit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_charts.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,C:\Users\Иван\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit3.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_add.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\Users\Иван\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\CourseWork.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.383,=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_delete.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_edit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_search.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.dfm=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_charts.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_hello.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\OrgTechAPI.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit3.pas=C:\Users\Иван\Desktop\КУРСАЧ ОАиП\Code\Unit_add.pas</Transaction>
+  </Transactions>
+</BorlandProject>
